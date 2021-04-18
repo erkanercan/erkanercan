@@ -1,5 +1,5 @@
 <h1 align="left" id="erkanercan-title">:wave: Hello there! I'm Erkan Ercan</h1>
-<h3 align="left">I am a Gopher, doing Full Stack Engineering things.</h3>
+<h3 align="left">I am a Gopher, doing Full Stack Engineering things. Mainly using GitLab for now.</h3>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
