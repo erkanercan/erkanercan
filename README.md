@@ -2,7 +2,7 @@
 <h3 align="left">I am a Gopher, doing Full Stack Engineering things. Mainly using GitLab for now.</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
+  <a href="https://github.com/erkanercan/">
     <img src="https://komarev.com/ghpvc/?username=erkanercan" alt="page views" />
   </a>
   <a href="https://stackoverflow.com/users/14236733">
