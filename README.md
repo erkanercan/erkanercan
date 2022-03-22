@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=erkanercan&show_icons=true&count_private=true&include_all_commits=true" alt="erkanercan" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[Fill-Labs]**
+- :office: &nbsp;I'm currently working at **[A DeFi Company]**
 - :seedling: &nbsp;I’m currently learning **Go** and **React+Typescript**
 - :speech_balloon: &nbsp;I like to talk about **Blockchain** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
