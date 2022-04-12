@@ -1,5 +1,5 @@
 <h1 align="left" id="erkanercan-title">:wave: Hello there! I'm Erkan Ercan</h1>
-<h3 align="left">I am a Gopher, React and Typescript lover. Doing Full Stack Engineering.</h3>
+<h3 align="left">I am a Gopher, React and Typescript lover. Sofware Engineer in the world for now. Maybe in outer space soon.</h3>
 
 <p align="left">
   <a href="https://github.com/erkanercan/">
@@ -20,11 +20,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=erkanercan&show_icons=true&count_private=true&include_all_commits=true" alt="erkanercan" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[A DeFi Company]**
+- :office: &nbsp;I'm currently not working. Interviewing with a few companies, but if you want to reach me feel free to open an issue on **[issues page]** or send an e-mail to me!
 - :seedling: &nbsp;I’m currently learning **Go** and **React+Typescript**
 - :speech_balloon: &nbsp;I like to talk about **Blockchain** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :bagel: &nbsp;Visit my **[Website]** 
 
 <br>
 
@@ -81,6 +82,6 @@
 
 <!-- links -->
 
-[fill-labs]: https://www.fill-labs.com/ "Fill-Labs Homepage"
+[website]: https://erkanercan.dev
 [issues page]: https://github.com/erkanercan/erkanercan/issues "erkanercan/issues"
 [linkedin]: https://www.linkedin.com/in/erkan-ercan/ "Erkan Ercan LinkedIn"
