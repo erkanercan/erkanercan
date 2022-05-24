@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=erkanercan&show_icons=true&count_private=true&include_all_commits=true" alt="erkanercan" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently not working. Interviewing with a few companies, but if you want to reach me feel free to open an issue on **[issues page]** or send an e-mail to me!
+- :office: &nbsp;I'm currently working at **[ExtraWatts]**
 - :seedling: &nbsp;I’m currently learning **Go** and **React+Typescript**
 - :speech_balloon: &nbsp;I like to talk about **Blockchain** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
@@ -85,3 +85,4 @@
 [website]: https://erkanercan.dev
 [issues page]: https://github.com/erkanercan/erkanercan/issues "erkanercan/issues"
 [linkedin]: https://www.linkedin.com/in/erkan-ercan/ "Erkan Ercan LinkedIn"
+[extrawatts]: https://extrawatts.co/
